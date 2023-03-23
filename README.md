@@ -1,3 +1,4 @@
 # helm-repo
 
-[a link](https://mrtz4thm.github.io/helm-repo/one-container-app/)
+[One Container App](https://mrtz4thm.github.io/helm-repo/one-container-app/)
+Provides a deployment, service and ingress for kubernetes cluster. 
