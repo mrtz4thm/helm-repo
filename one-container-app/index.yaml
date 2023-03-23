@@ -3,7 +3,17 @@ entries:
   one-container-app:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2023-03-23T21:35:09.589562+01:00"
+    created: "2023-03-23T22:49:49.405115+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 68d63bec3d7194b56b5269b5fb4041f95dfb64c9fbe584b923b7a322e9fb8deb
+    name: one-container-app
+    type: application
+    urls:
+    - https://mrtz4thm.github.io/helm-repo/one-container-app/one-container-app-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2023-03-23T22:49:49.404302+01:00"
     description: A Helm chart for Kubernetes
     digest: 849121e9481e63f93fc6a3b326dc9c22f987053659c07385758b8545e0e9ad96
     name: one-container-app
@@ -13,7 +23,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2023-03-23T21:35:09.588162+01:00"
+    created: "2023-03-23T22:49:49.403167+01:00"
     description: A Helm chart for Kubernetes
     digest: bca6a4384b51bbfb154eaa3cee275614014897b52a8bbdaea7ae08746a50168b
     name: one-container-app
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://mrtz4thm.github.io/helm-repo/one-container-app/one-container-app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-23T21:35:09.580388+01:00"
+generated: "2023-03-23T22:49:49.401442+01:00"
